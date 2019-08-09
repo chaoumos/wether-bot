@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ma.appeduc.woocom",
+    "sha256_cert_fingerprints":
+    ["EE:DC:B4:8E:6F:DE:47:BD:7B:D6:F3:70:18:E7:9D:46:2E:F2:20:FD:9E:F7:59:94:EA:95:0D:03:65:47:BA:60"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://github.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ma.appeduc.woocom",
+    "sha256_cert_fingerprints":
+    ["EE:DC:B4:8E:6F:DE:47:BD:7B:D6:F3:70:18:E7:9D:46:2E:F2:20:FD:9E:F7:59:94:EA:95:0D:03:65:47:BA:60"]
+  }
+}]
