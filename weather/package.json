@@ -6,7 +6,7 @@
   "author": "nathan.grasset@recast.ai",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.0",
     "express": "^4.16.2"
   }
 }
